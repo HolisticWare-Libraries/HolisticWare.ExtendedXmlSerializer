@@ -1,0 +1,2 @@
+# HolisticWare.ExtendedXmlSerializer
+HolisticWare.ExtendedXmlSerializer
